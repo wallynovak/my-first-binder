@@ -14,3 +14,4 @@ dependencies:
   - python=3.8
   - python-dateutil>=2.8.1
   - pytz
+  - pandas
